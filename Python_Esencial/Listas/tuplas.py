@@ -1,0 +1,1 @@
+programa = "python","c", "c++" #Si generamos esto, python lo interpreta como Tupla

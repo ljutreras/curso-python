@@ -1,0 +1,1 @@
+#__init__.py hace que la carpeta Figura se convierta en un paquete y se pueda importar en otro modulo
